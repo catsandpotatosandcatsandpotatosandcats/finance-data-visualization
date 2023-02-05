@@ -1,0 +1,95 @@
+Industry Name,Unlevered Beta,Equity (Levered) Beta
+Advertising,1.17,1.29
+Aerospace/Defense,1.06,1.16
+Air Transport,0.76,1.24
+Apparel,0.84,0.90
+Auto & Truck,1.03,1.35
+Auto Parts,1.29,1.41
+Bank (Money Center),0.44,0.88
+Banks (Regional),0.36,0.56
+Beverage (Alcoholic),0.81,0.87
+Beverage (Soft),0.79,0.86
+Broadcasting,0.74,1.06
+Brokerage & Investment Banking,0.45,0.99
+Building Materials,1.00,1.11
+Business & Consumer Services,1.00,1.09
+Cable TV,0.61,1.02
+Chemical (Basic),0.99,1.14
+Chemical (Diversified),0.94,1.20
+Chemical (Specialty),1.02,1.11
+Coal & Related Energy,1.35,1.21
+Computer Services,1.04,1.09
+Computers/Peripherals,1.22,1.26
+Construction Supplies,0.94,1.12
+Diversified,0.73,0.96
+Drugs (Biotechnology),1.25,1.27
+Drugs (Pharmaceutical),1.00,1.06
+Education,0.79,0.88
+Electrical Equipment,1.10,1.14
+Electronics (Consumer & Office),1.10,1.27
+Electronics (General),1.29,1.30
+Engineering/Construction,0.73,1.03
+Entertainment,1.10,1.20
+Environmental & Waste Services,0.90,1.09
+Farming/Agriculture,0.66,0.84
+Financial Svcs. (Non-bank & Insurance),0.16,0.88
+Food Processing,0.69,0.80
+Food Wholesalers,0.48,0.69
+Furn/Home Furnishings,1.09,1.08
+Green & Renewable Energy,0.74,1.03
+Healthcare Products,1.08,1.13
+Healthcare Support Services,0.92,1.01
+Heathcare Information and Technology,1.27,1.34
+Homebuilding,0.97,1.14
+Hospitals/Healthcare Facilities,0.57,0.77
+Hotel/Gaming,0.75,0.97
+Household Products,0.96,1.02
+Information Services,1.34,1.41
+Insurance (General),0.61,0.69
+Insurance (Life),0.80,0.90
+Insurance (Prop/Cas.),0.69,0.75
+Investments & Asset Management,0.57,0.79
+Machinery,1.06,1.10
+Metals & Mining,1.11,1.20
+Office Equipment & Services,0.83,0.93
+Oil/Gas (Integrated),1.03,1.08
+Oil/Gas (Production and Exploration),1.17,1.31
+Oil/Gas Distribution,0.64,0.96
+Oilfield Svcs/Equip.,0.92,1.15
+Packaging & Container,0.65,0.84
+Paper/Forest Products,0.75,0.99
+Power,0.44,0.73
+Precious Metals,1.10,1.14
+Publishing & Newspapers,0.87,0.89
+R.E.I.T.,0.51,0.79
+Real Estate (Development),0.50,1.02
+Real Estate (General/Diversified),0.53,0.93
+Real Estate (Operations & Services),0.55,0.90
+Recreation,0.99,1.11
+Reinsurance,1.09,1.16
+Restaurant/Dining,0.83,1.00
+Retail (Automotive),0.72,0.98
+Retail (Building Supply),0.93,1.08
+Retail (Distributors),0.60,0.83
+Retail (General),0.73,0.89
+Retail (Grocery and Food),0.53,0.71
+Retail (Online),1.49,1.59
+Retail (Special Lines),0.96,1.09
+Rubber& Tires,0.93,1.16
+Semiconductor,1.67,1.69
+Semiconductor Equip,1.98,1.96
+Shipbuilding & Marine,1.05,1.10
+Shoe,0.98,1.02
+Software (Entertainment),1.46,1.48
+Software (Internet),1.26,1.35
+Software (System & Application),1.32,1.35
+Steel,1.04,1.23
+Telecom (Wireless),0.60,0.84
+Telecom. Equipment,1.18,1.20
+Telecom. Services,0.53,0.83
+Tobacco,0.78,0.89
+Transportation,0.83,1.01
+Transportation (Railroads),0.54,0.67
+Trucking,0.80,1.08
+Utility (General),0.45,0.68
+Utility (Water),0.49,0.74
